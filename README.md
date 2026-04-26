@@ -18,7 +18,7 @@ The assignment demonstrates end-to-end capabilities including:
 # Repository Structure
 
 ``````
-ml-assessment-shlok-sonawane/
+ml-assessment-Debarghya-Bhattacharya/
 │
 ├──|part_a|
 │   ├── q1_supervised.ipynb
